@@ -3,6 +3,7 @@ Word-Based-Model
 
 This repository consists of project done as part of the course Natural Language Processing - Advanced, Spring 2014.The course was instructed by [Dr. Dipti Misra Sharma](http://www.iiit.ac.in/people/faculty/dipti), [Dr. Ravi Jampani](http://www.cise.ufl.edu/~rjampani/index.html) and [Mr. Akula Arjun Reddy](http://web.iiit.ac.in/~arjunreddy.aug08/)
 
+A detailed report is available [here](https://drive.google.com/file/d/0B87x7EOOS4ztWlNUNHBxLV9xV00/edit?usp=sharing)
 ##Requirements
 Python 2.6 or above
 
